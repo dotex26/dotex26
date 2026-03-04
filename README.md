@@ -65,12 +65,11 @@ Used in **multiple garment factories**.
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dotex26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=dotex26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotex26&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotex26&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
