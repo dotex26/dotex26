@@ -12,24 +12,34 @@ Senior Developer • Apparel Manufacturing Tech • AI Builder
 
 ## 🤖 Spark AI
 
-**Spark AI (Spark1)** — AI model focused on the **Garment Manufacturing Industry**
+**Spark AI (Spark1)** — AI system focused on the **Garment Manufacturing Industry**
 
 • 150k+ training dataset  
-• ~30% current accuracy  
-• Focused on production knowledge & factory operations  
+• ~30% model accuracy  
+• Continuous training & improvement  
+
+Focus Areas
+
+- Apparel Production Knowledge  
+- Industrial Engineering  
+- Production Planning  
+- Factory Operations  
 
 ---
 
 ## 🏭 Apparel Production Software
 
-Working on **production planning systems** used in real garment factories.
+Working on **production planning and factory management systems** used in garment manufacturing.
 
-**Core Areas**
+Main capabilities
 
 - Production Planning  
 - Line Efficiency Monitoring  
 - SAM / SMV Analysis  
-- Order & Capacity Planning  
+- Order Planning  
+- Factory Performance Tracking  
+
+Used in **multiple garment factories**.
 
 ---
 
@@ -41,9 +51,17 @@ Working on **production planning systems** used in real garment factories.
 
 </p>
 
+<p align="center">
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</p>
+
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -65,6 +83,15 @@ Working on **production planning systems** used in real garment factories.
 
 ## 🎯 Mission
 
-Building **AI systems for the global apparel manufacturing industry.**
+Building **AI-powered systems for the global apparel manufacturing industry**
 
-Spark AI → Apparel Manufacturing LLM → Factory Intelligence Systems 🚀
+Future Vision
+
+- Spark AI v2  
+- Apparel Manufacturing LLM  
+- Factory Intelligence Systems  
+- Smart Production Planning  
+
+---
+
+⭐ Combining **AI + Manufacturing Technology**
