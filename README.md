@@ -5,91 +5,66 @@ Senior Developer • Apparel Manufacturing Tech • AI Builder
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Spark+AI+Developer;Garment+Manufacturing+Systems;Industrial+Engineering+AI;Production+Planning+Software&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Spark+AI;Garment+Manufacturing+Systems;Industrial+Engineering+Tools;Production+Planning+Software">
 </p>
 
 ---
 
-# 🤖 Spark AI
+## 🤖 Spark AI
 
-Developing **Spark AI (Spark1)** — an AI model designed for the **Garment Manufacturing Industry**.
+**Spark AI (Spark1)** — AI model focused on the **Garment Manufacturing Industry**
 
-### Current Progress
-- 📊 150k+ training dataset
-- 🎯 ~30% model accuracy
-- 🔄 Continuous model improvement
-
-### Focus Areas
-- Apparel Production Knowledge
-- Industrial Engineering
-- Production Planning
-- Factory Operations
+• 150k+ training dataset  
+• ~30% current accuracy  
+• Focused on production knowledge & factory operations  
 
 ---
 
-# 🏭 Apparel Production Software
+## 🏭 Apparel Production Software
 
-Working on **production planning and factory management systems** used in real garment manufacturing environments.
+Working on **production planning systems** used in real garment factories.
 
-### Key Features
-- Production Planning
-- Line Efficiency Monitoring
-- SAM / SMV Analysis
-- Order Planning
-- Factory Performance Tracking
+**Core Areas**
 
-✅ Used in **multiple garment factories**
+- Production Planning  
+- Line Efficiency Monitoring  
+- SAM / SMV Analysis  
+- Order & Capacity Planning  
 
 ---
 
-# 📊 Dataset Engineering
+## 🧠 Tech Stack
 
-Building large **AI training datasets** for the textile industry.
+<p align="center">
 
-Current dataset scale:
+<img src="https://skillicons.dev/icons?i=python,php,react,nodejs,nextjs,laravel,flutter,android,mysql,wordpress" />
 
-| Dataset | Size |
-|------|------|
-| Apparel Manufacturing Q&A | 150k+ |
-| Industrial Engineering Knowledge | Growing |
-| Production Planning Workflows | Growing |
+</p>
 
 ---
 
-# ⚙️ Tech & Tools
+## 📊 GitHub Activity
 
-![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Development-purple?style=for-the-badge)
-![Manufacturing](https://img.shields.io/badge/Apparel-Manufacturing-green?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data-Engineering-orange?style=for-the-badge)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=dotex26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotex26&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dotex26&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotex26&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-# 🎯 Mission
-
-Building **AI tools for the global apparel manufacturing industry**.
-
-Future Goals:
-
-- Spark AI v2
-- Apparel Manufacturing LLM
-- Factory Intelligence Systems
-- Smart Production Planning
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-⭐ Always exploring new ways to combine **AI + Manufacturing Technology**
+## 🎯 Mission
+
+Building **AI systems for the global apparel manufacturing industry.**
+
+Spark AI → Apparel Manufacturing LLM → Factory Intelligence Systems 🚀
