@@ -1,18 +1,25 @@
-# 👋 Hi, I'm Dotex26
+<h1 align="center">👋 Hi, I'm Dotex26</h1>
 
-Senior Developer working on **Apparel Manufacturing Software and AI systems**.
+<p align="center">
+Senior Developer • Apparel Manufacturing Tech • AI Builder
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Spark+AI+Developer;Garment+Manufacturing+Systems;Industrial+Engineering+AI;Production+Planning+Software&center=true&width=500&height=45">
+</p>
 
 ---
 
-## Spark AI
-Developing **Spark AI (Spark1)** — an AI model focused on the **Garment Manufacturing Industry**.
+# 🤖 Spark AI
 
-Current progress:
-- Training with large garment industry datasets
-- ~30% model accuracy reached
-- Continuous model improvement
+Developing **Spark AI (Spark1)** — an AI model designed for the **Garment Manufacturing Industry**.
 
-Focus areas:
+### Current Progress
+- 📊 150k+ training dataset
+- 🎯 ~30% model accuracy
+- 🔄 Continuous model improvement
+
+### Focus Areas
 - Apparel Production Knowledge
 - Industrial Engineering
 - Production Planning
@@ -20,36 +27,69 @@ Focus areas:
 
 ---
 
-## 🏭 Apparel Production Software
-Working on **production planning and factory management systems** used in garment manufacturing environments.
+# 🏭 Apparel Production Software
 
-Areas involved:
+Working on **production planning and factory management systems** used in real garment manufacturing environments.
+
+### Key Features
 - Production Planning
 - Line Efficiency Monitoring
 - SAM / SMV Analysis
-- Order Planning & Tracking
+- Order Planning
+- Factory Performance Tracking
 
-Software solutions are currently **used in multiple garment factories**.
+✅ Used in **multiple garment factories**
 
 ---
 
-## 📊 Dataset Work
-Building large datasets for training AI models in the textile industry.
+# 📊 Dataset Engineering
+
+Building large **AI training datasets** for the textile industry.
 
 Current dataset scale:
-- 150k+ Apparel Manufacturing Q&A
-- Industrial Engineering knowledge
-- Production planning workflows
+
+| Dataset | Size |
+|------|------|
+| Apparel Manufacturing Q&A | 150k+ |
+| Industrial Engineering Knowledge | Growing |
+| Production Planning Workflows | Growing |
 
 ---
 
-## 🎯 Goal
-Develop **AI-powered tools for the global apparel manufacturing industry.**
+# ⚙️ Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Development-purple?style=for-the-badge)
+![Manufacturing](https://img.shields.io/badge/Apparel-Manufacturing-green?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-Engineering-orange?style=for-the-badge)
 
 ---
 
-## ⚙️ Areas of Work
-- Apparel Manufacturing Technology
-- Industrial Engineering Systems
-- Production Planning Software
-- AI for Manufacturing
+# 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dotex26&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotex26&layout=compact&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🎯 Mission
+
+Building **AI tools for the global apparel manufacturing industry**.
+
+Future Goals:
+
+- Spark AI v2
+- Apparel Manufacturing LLM
+- Factory Intelligence Systems
+- Smart Production Planning
+
+---
+
+⭐ Always exploring new ways to combine **AI + Manufacturing Technology**
