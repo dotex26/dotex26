@@ -36,9 +36,11 @@ Areas of exploration
 </p>
 
 <p align="center">
+
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 </p>
 
 ---
