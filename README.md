@@ -5,41 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=20&duration=2800&pause=800&color=1D4ED8&center=true&vCenter=true&width=600&lines=Building+Enterprise+SaaS+for+Garment+Manufacturing;Team+Lead+%40+Track+Tech+Solution;Next.js+%7C+Laravel+%7C+CodeIgniter+4+%7C+Redis;2.5%2B+Years+%E2%80%94+%E2%82%B95%2C50%2C000%2Fmo+MRR+Delivered;Always+Learning+%E2%80%94+Always+Shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=20&duration=2800&pause=800&color=1D4ED8&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%26+Team+Lead;Next.js+%7C+Laravel+%7C+CodeIgniter+4;MariaDB+%7C+Redis+%7C+Firebase;Building+SaaS+%7C+REST+APIs+%7C+Real-Time+Systems;Always+Learning+%E2%80%94+Always+Shipping" />
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Developer & Team Lead** at **Track Tech Solution**, building production-grade B2B SaaS platforms for the **enterprise apparel manufacturing industry**. My career has moved fast — from collaborating in an agile team, to architecting solo as a single engineer, to now leading a cross-functional team of 3 after a corporate acquisition.
-
-I care deeply about software that *actually gets used* — which means balancing solid architecture with interfaces that real people adopt.
-
-```
-📍 Salem, Tamil Nadu, India
-📧 dotex25@gmail.com
-💼 Team Lead & Full-Stack Developer @ Track Tech Solution
-🏭 Domain: Enterprise Garment Manufacturing SaaS (B2B)
-💰 Driving ₹5,50,000/month in MRR across 5 enterprise clients
-```
-
----
-
-## 🚀 What I'm Building
-
-### 🧵 Apparel Production Planning SaaS *(Active — Track Tech Solution)*
-A large-scale planning platform for Tier-1 garment manufacturers featuring:
-- **Gantt-style interactive planning boards** with Redis-powered caching for zero-lag rendering
-- **Excel-like data entry UI** — maximising adoption for teams migrating from spreadsheets
-- **T&A (Time & Action) dashboards** with dynamic lead-time tracking
-- Deployed across **5 enterprise clients**, managed via **GitLab CI/CD**
-
-### 🔧 Factory Maintenance Tracking System *(Shipped — Arrow Digits)*
-Built solo in 5 months — a full maintenance management backend powering a Flutter mobile app:
-- **Automated escalation matrix** via Firebase push notifications (supervisor → technician → manager)
-- **Asset & inventory modules** across 13 multinational factory units
-- **$100/factory/month** B2B monetisation model
+<br/>
 
 ---
 
@@ -47,17 +16,21 @@ Built solo in 5 months — a full maintenance management backend powering a Flut
 
 <div align="center">
 
-**Core**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,php,laravel,python" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css" />
 
-**Databases & Infrastructure**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,firebase,git,gitlab" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
 
-**Other**
+**Databases & Caching**
 
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,firebase" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,gitlab,flutter" />
 
 </div>
 
@@ -73,29 +46,43 @@ Built solo in 5 months — a full maintenance management backend powering a Flut
 
 ---
 
-## 🤖 Spark AI *(Experimental Project)*
+## 🚀 What I Do
 
-An independent AI project focused on learning how intelligent systems are built from the ground up.
-
-| Milestone | Status |
-|-----------|--------|
-| 📦 Training Dataset | 150k+ samples |
-| 🎯 Model Accuracy | ~30% (active improvement) |
-| 🔬 Focus Areas | ML, Model Training, Data Processing, AI-Powered Tools |
-
-> *Building this to understand AI from first principles — not just use it.*
+```yaml
+role:        Full-Stack Developer & Team Lead
+experience:  2.5+ years
+focus:
+  - SaaS Architecture (multi-tenant, scalable)
+  - RESTful API design & integration
+  - Real-time dashboards & scheduling systems
+  - Redis caching & MariaDB optimisation
+  - CI/CD pipelines via GitLab
+  - Flutter mobile app backends
+  - Automated notification & escalation systems
+  - Team leadership & code reviews
+```
 
 ---
 
-## 📊 GitHub Activity
+## 🤖 Spark AI *(Experimental)*
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dotex26&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
+An independent AI project — building intelligent systems from scratch to understand how they actually work.
+
+- 📦 150k+ training dataset
+- 🎯 ~30% model accuracy — actively improving
+- 🔬 Exploring: ML, model training, data processing, AI-powered tools
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dotex26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotex26&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dotex26&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -108,24 +95,6 @@ An independent AI project focused on learning how intelligent systems are built 
 
 ---
 
-## 🎯 Focus Areas
-
-| Area | What I'm Doing |
-|------|---------------|
-| 🏭 **Enterprise SaaS** | Scaling multi-tenant platforms for manufacturing clients |
-| ⚡ **Performance Engineering** | Redis caching, MariaDB query optimisation, real-time systems |
-| 👥 **Team Leadership** | Managing engineers, CI/CD pipelines, code reviews |
-| 🤖 **AI / ML** | Building Spark AI from scratch to understand model training |
-| 📱 **Mobile APIs** | RESTful backends powering Flutter apps for factory floors |
-
----
-
 <div align="center">
-
-**BE, Mechanical Engineering** · Muthayammal Engineering College · 2023 · 8.44 CGPA (Distinction)
-
-*From mechanical engineering to leading full-stack teams — always learning, always shipping.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1D4ED8&height=100&section=footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1D4ED8&height=100&section=footer" />
 </div>
