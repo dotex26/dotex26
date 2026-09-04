@@ -44,36 +44,6 @@
 
 </div>
 
----
-
-## 🚀 What I Do
-
-```yaml
-role:        Full-Stack Developer & Team Lead
-experience:  2.5+ years
-focus:
-  - SaaS Architecture (multi-tenant, scalable)
-  - RESTful API design & integration
-  - Real-time dashboards & scheduling systems
-  - Redis caching & MariaDB optimisation
-  - CI/CD pipelines via GitLab
-  - Flutter mobile app backends
-  - Automated notification & escalation systems
-  - Team leadership & code reviews
-```
-
----
-
-## 🤖 Spark AI *(Experimental)*
-
-An independent AI project — building intelligent systems from scratch to understand how they actually work.
-
-- 📦 150k+ training dataset
-- 🎯 ~30% model accuracy — actively improving
-- 🔬 Exploring: ML, model training, data processing, AI-powered tools
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
